@@ -1,0 +1,18 @@
+footer {
+    background-color: #6278f7;
+    display: flex;
+    
+    padding: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer .logo-redes {
+    display: flex;
+    gap: 20px;
+}
+
+.texto{
+    color: white;
+    font-size: 12px;
+}
